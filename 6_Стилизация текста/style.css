@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Rubik:wght@300&display=swap');
+body {
+    background-color: rgb(213, 236, 225);
+    font-family: 'Rubik', sans-serif;
+    
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+    
+h1 {
+    font-weight: normal;
+    color: rgb(13, 119, 31);
+}
+
+span {
+    font-weight: bold;
+}

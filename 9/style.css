@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: "Jura";
     background-color: #61b7cf;
@@ -33,4 +34,31 @@ header{
 .container{
     background-color: white;
     border-radius: 16px;
+=======
+.h1{
+    text-align: center;
+}
+section{
+    width: 768px;
+    margin: 10px;
+}
+.ctg{
+    margin: 8px;
+    padding: 16px;
+    height: 120px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: 1px solid cyan;
+}
+.ctg1{
+    background-color: darkcyan;
+}
+.name{
+    font-weight: bold;
+}
+main{
+    width: 768px;
+    margin: auto;
+>>>>>>> b9ec2fe15ab1b5eebf0e5f0fb5103d60e1e9512f
 }
