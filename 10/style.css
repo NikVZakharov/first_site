@@ -39,3 +39,9 @@ main{
     background-position: 0px 0px;
     margin-left: auto;
 }
+.element{
+    display: flex;
+}
+.card-text{
+    flex: 1;
+}
